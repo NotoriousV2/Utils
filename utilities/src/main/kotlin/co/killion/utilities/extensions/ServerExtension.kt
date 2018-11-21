@@ -1,4 +1,4 @@
-package co.killion.utils.extensions
+package co.killion.utilities.extensions
 
 import org.bukkit.Bukkit
 import org.bukkit.OfflinePlayer

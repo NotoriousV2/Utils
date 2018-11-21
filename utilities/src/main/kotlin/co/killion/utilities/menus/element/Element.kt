@@ -1,7 +1,7 @@
-package co.killion.utils.menus.element
+package co.killion.utilities.menus.element
 
-import co.killion.utils.menus.ElementContainer
-import co.killion.utils.menus.Vector2i
+import co.killion.utilities.menus.ElementContainer
+import co.killion.utilities.menus.Vector2i
 import org.bukkit.entity.Player
 import org.bukkit.event.inventory.InventoryClickEvent
 

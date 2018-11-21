@@ -1,8 +1,8 @@
-package co.killion.utils.menus.element
+package co.killion.utilities.menus.element
 
-import co.killion.utils.extensions.cancel
-import co.killion.utils.menus.ElementContainer
-import co.killion.utils.menus.Vector2i
+import co.killion.utilities.extensions.cancel
+import co.killion.utilities.menus.ElementContainer
+import co.killion.utilities.menus.Vector2i
 import org.bukkit.Material
 import org.bukkit.entity.Player
 import org.bukkit.event.inventory.InventoryClickEvent

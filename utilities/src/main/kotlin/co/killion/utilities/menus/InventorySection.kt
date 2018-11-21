@@ -1,4 +1,4 @@
-package co.killion.utils.menus
+package co.killion.utilities.menus
 
 import org.bukkit.inventory.Inventory
 import org.bukkit.inventory.ItemStack

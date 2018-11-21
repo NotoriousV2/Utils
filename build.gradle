@@ -1,4 +1,4 @@
 allprojects {
-    group = 'co.killion.utils'
+    group = 'co.killion.utilities'
     version = '1.1'
 }

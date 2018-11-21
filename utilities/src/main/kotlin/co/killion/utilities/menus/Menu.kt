@@ -1,6 +1,6 @@
-package co.killion.utils.menus
+package co.killion.utilities.menus
 
-import co.killion.utils.extensions.server
+import co.killion.utilities.extensions.server
 import org.bukkit.event.inventory.InventoryCloseEvent
 import org.bukkit.inventory.Inventory
 import org.bukkit.inventory.InventoryHolder

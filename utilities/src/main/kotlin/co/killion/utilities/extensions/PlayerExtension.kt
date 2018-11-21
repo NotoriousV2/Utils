@@ -1,6 +1,6 @@
-package co.killion.utils.extensions
+package co.killion.utilities.extensions
 
-import co.killion.auctions.external.menu.Menu
+import co.killion.utilities.menus.Menu
 import org.bukkit.entity.Player
 
 fun Player.menu(rows: Int, block: Menu.() -> Unit): Menu {

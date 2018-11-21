@@ -1,4 +1,4 @@
-package co.killion.utils.menus
+package co.killion.utilities.menus
 
 import kotlin.math.abs
 import kotlin.math.max

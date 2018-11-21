@@ -1,4 +1,4 @@
-package co.killion.utils.extensions
+package co.killion.utilities.extensions
 
 import com.destroystokyo.paper.profile.ProfileProperty
 import org.apache.commons.lang.WordUtils

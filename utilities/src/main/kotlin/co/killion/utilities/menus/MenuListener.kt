@@ -1,6 +1,6 @@
-package co.killion.utils.menus
+package co.killion.utilities.menus
 
-import co.killion.utils.extensions.cancel
+import co.killion.utilities.extensions.cancel
 import org.bukkit.entity.Player
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
