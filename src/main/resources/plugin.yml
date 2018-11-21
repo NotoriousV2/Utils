@@ -1,8 +1,0 @@
-name: @name@
-version: @version@
-description: @description@
-author: @author@
-website: https://killion.co
-main: co.killion.plugintemplate.PluginTemplate
-depend: []
-api-version: 1.13

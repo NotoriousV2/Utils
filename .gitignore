@@ -5,3 +5,7 @@ build
 .idea
 out
 classes/
+
+gradle
+gradlew
+gradlew.bat

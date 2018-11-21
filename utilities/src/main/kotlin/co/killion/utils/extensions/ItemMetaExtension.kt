@@ -4,7 +4,6 @@ import com.destroystokyo.paper.profile.ProfileProperty
 import org.apache.commons.lang.WordUtils
 import org.bukkit.Bukkit
 import org.bukkit.enchantments.Enchantment
-import org.bukkit.entity.Player
 import org.bukkit.inventory.ItemFlag
 import org.bukkit.inventory.meta.ItemMeta
 import org.bukkit.inventory.meta.SkullMeta
