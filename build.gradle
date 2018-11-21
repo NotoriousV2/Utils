@@ -2,10 +2,8 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.3.10'
 }
 
-allprojects {
-    group = 'co.killion'
-    version = '1.0.0'
-}
+group = 'co.killion'
+version = version
 
 repositories {
     mavenLocal()
